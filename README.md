@@ -7,4 +7,4 @@
 
 ---
 
-[Прмер моего тест плана](https://docs.google.com/spreadsheets/d/1DPrXvc_WzWXr6j9YHGHZXGDZZClr71eqCoQ6pABfSGM/edit?usp=sharing)
+[Пример моего тест плана](https://docs.google.com/spreadsheets/d/1DPrXvc_WzWXr6j9YHGHZXGDZZClr71eqCoQ6pABfSGM/edit?usp=sharing)
